@@ -22,7 +22,7 @@ public class EmpGroups extends Employees {
 		System.out.println("Employee Name is:"+empName[2]+ " , " + "Employee ID:"+empId[2]);
 		
 		
-		
+
 		
 		
 	}
