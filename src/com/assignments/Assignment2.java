@@ -16,9 +16,9 @@ public class Assignment2 {
 		{  // This is the main array 
 				
 				{ // Semester 1  Array index 0  
-				  
+				{"Mathematics I", "Physics", "Chemistry", "Computer Programming", "Engineering Drawing", "Basic Electrical Eng."},
+
 	// Subject index     0                1          3                 3                       4                     5
-					{"Mathematics I", "Physics", "Chemistry", "Computer Programming", "Engineering Drawing", "Basic Electrical Eng."},
 	
 	// Marks Index	   0     1     2     3     4     5		
                     {"78", "85", "91", "74", "88", "79"}
