@@ -88,7 +88,10 @@ public class Assignment7 {
         System.out.println("Total amount debited: " + debitTotal);
         System.out.println("Remaining balance in bank account: " + balance);
         System.out.println("Total number of suspicious transactions: " + suspiciousCount);
-
+        
+        
+        
+       
     }
 }
 
